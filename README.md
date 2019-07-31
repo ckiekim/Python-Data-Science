@@ -1,5 +1,7 @@
 ## Python-Data-Science
 
+### [교재: 데이터 사이언스 스쿨](https://datascienceschool.net/view-notebook/39569f0132044097a15943bd8f440ca5/)
+
 ### 교재: 파이썬으로 데이터 주무르기
 #### 저자: 민형기 (BJ 퍼블릭)
 
