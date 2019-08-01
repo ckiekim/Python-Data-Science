@@ -1,6 +1,7 @@
 # .idea/workspace.xml (added by ckkim, 19/07/25)
 .idea/workspace.xml
 workspace.xml
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
